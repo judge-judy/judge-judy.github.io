@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACI,gBAAiB,CACjB,WAAY,CACZ,UAAW,CACX,eACJ","file":"main.9c6b85e3.chunk.css","sourcesContent":[".judge-image {\n    object-fit: cover;\n    height: 80px;\n    width: 80px;\n    margin-left: 5px;\n}\n"]}
